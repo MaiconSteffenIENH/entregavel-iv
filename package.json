@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "implemente-aqui.js",
+  "type": "module",
   "scripts": {
     "atende-clientes": "node atende-clientes/main.js"
   },
